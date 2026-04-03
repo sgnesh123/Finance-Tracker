@@ -1,6 +1,6 @@
 # 💰 FinSight — Personal Finance Tracker
 
-FinSight is a modern, full-stack **personal finance tracker** that helps users monitor income, manage expenses, track budgets, and visualize spending trends over time.
+FinSight is a modern, full-stack **personal finance tracker** that helps users monitor income, manage expenses, track budgets categorically, and visualize spending trends over time.
 
 🚀 **Live Demo:** https://finsight-fxd4.onrender.com
 
@@ -9,7 +9,7 @@ FinSight is a modern, full-stack **personal finance tracker** that helps users m
 
 ## 🎯 Why I Built This
 
-I built FinSight to practice designing a **full-stack application**, focusing on scalable backend architecture, database modeling, clean UI design, and financial data visualization.
+I built FinSight to practice designing a **full-stack application**, focusing on backend architecture, database modeling, intuitive UI design, and financial data visualization.
 
 
 ## ✨ Features
