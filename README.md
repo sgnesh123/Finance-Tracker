@@ -1,4 +1,4 @@
-# 💰 FinSight — Personal Finance Tracker
+# FinSight — Personal Finance Tracker
 
 FinSight is a modern, full-stack **personal finance tracker** that helps users monitor income, manage expenses, track budgets categorically, and visualize spending trends over time.
 
@@ -9,32 +9,32 @@ FinSight is a modern, full-stack **personal finance tracker** that helps users m
 
 ## 🎯 Why I Built This
 
-I built FinSight to practice designing a **full-stack application**, focusing on backend architecture, database modeling, intuitive UI design, and financial data visualization.
+I built FinSight to practice designing a full-stack web application, focusing on backend architecture, database modeling, intuitive UI design, and financial data visualization.
 
 
 ## ✨ Features
 
-### 💸 Transaction Management
+### Transaction Management
 - Add, edit, delete, and categorize income & expenses  
 - Track spending with descriptions and timestamps  
 
-### 📊 Real-Time Financial Dashboard
+### Real-Time Financial Dashboard
 - Net balance overview  
 - Income vs expense breakdown  
 - Monthly summaries  
 
-### 📅 Monthly Filtering
+### Monthly Filtering
 - Filter financial history month-by-month using a calendar picker  
 
-### 🧮 Budget Tracking
+### Budget Tracking
 - Set spending limits by category  
 - Visual alerts when approaching or exceeding budgets  
 
-### 📈 Data Visualization
+### Data Visualization
 - **Category Pie Chart** --> Spending distribution  
 - **12-Month Bar Chart** --> Income v.s. expense trends  
 
-### 🔍 Search & Sorting
+### Search & Sorting
 - Search transactions by category or description  
 - Sort by date or amount
 
@@ -51,7 +51,7 @@ I built FinSight to practice designing a **full-stack application**, focusing on
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 - React + TypeScript
 - Vite
 - Tailwind CSS
@@ -59,33 +59,33 @@ I built FinSight to practice designing a **full-stack application**, focusing on
 - Framer Motion
 - Recharts
 
-### 🧩 Backend
+### Backend
 - Node.js
 - Express
 - REST API
 
-### 🗄️ Database
+### Database
 - PostgreSQL
 - Drizzle ORM
 
-### 🛡️ Validation & Utilities
+### Validation & Utilities
 - Zod
 - React Hook Form
 
 
 ## ⚙️ Getting Started (Local Setup)
 
-### 1️⃣ Install dependencies
+### 1. Install dependencies
 ```npm install```
 
-### 2️⃣ Configure environment variables
+### 2. Configure environment variables
 Create a `.env` file:
 ```DATABASE_URL=your_database_connection_string```
 
-### 3️⃣ Run development server
+### 3. Run development server
 ```npm run dev```
 
-### 4️⃣ Build & run production
+### 4. Build & run production
 ```
 npm run build
 npm start
